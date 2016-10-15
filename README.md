@@ -1,3 +1,6 @@
+Deprecated! Use https://github.com/automl/RoBO instead.
+=======================================================
+
 RoBO - a Robust Bayesian Optimization framework.
 ================================================
 
